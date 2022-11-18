@@ -37,15 +37,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/lehelbeni/lehelbeni.github.io/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/lehelbeni/lehelbeni.github.io/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -66,17 +64,52 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "docs/intro",
             position: "left",
-            label: "Tutorial",
+            label: "Documentation",
           },
-          { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            type: "doc",
+            docId: "neurosurgery/intro",
+            position: "left",
+            label: "Neurosurgery",
+          },
+          {
+            type: "doc",
+            docId: "webdev/intro",
+            position: "left",
+            label: "WebDev",
+          },
+          // { to: "/blog", label: "Blog", position: "left" },
+          {
+            href: "https://github.com/lehelbeni/lehelbeni.github.io",
             label: "GitHub",
             position: "right",
           },
         ],
+        // algolia: {
+        //   // The application ID provided by Algolia
+        //   appId: "YOUR_APP_ID",
+
+        //   // Public API key: it is safe to commit it
+        //   apiKey: "YOUR_SEARCH_API_KEY",
+
+        //   indexName: "YOUR_INDEX_NAME",
+
+        //   // Optional: see doc section below
+        //   contextualSearch: true,
+
+        //   // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        //   externalUrlRegex: "external\\.com|domain\\.com",
+
+        //   // Optional: Algolia search parameters
+        //   searchParameters: {},
+
+        //   // Optional: path for search page that enabled by default (`false` to disable it)
+        //   searchPagePath: "search",
+
+        //   //... other Algolia params
+        // },
       },
       footer: {
         style: "dark",
@@ -84,10 +117,10 @@ const config = {
           {
             title: "Docs",
             items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
+              // {
+              //   label: "Tutorial",
+              //   to: "/docs/intro",
+              // },
             ],
           },
           {
@@ -110,13 +143,13 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
+              // {
+              //   label: "Blog",
+              //   to: "/blog",
+              // },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/lehelbeni/lehelbeni.github.io",
               },
             ],
           },

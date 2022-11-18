@@ -1,0 +1,8 @@
+{
+  "label": "Neurosurgery",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Concepts from neurological surgery."
+  }
+}
