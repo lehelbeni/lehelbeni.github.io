@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
+  title: "lehelbeni.md",
   tagline: "Dinosaurs are cool",
   url: "https://lehelbeni.github.io",
   baseUrl: "/",
@@ -37,13 +37,15 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/lehelbeni/lehelbeni.github.io/",
+          editUrl:
+            "https://github.com/lehelbeni/lehelbeni.github.io/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/lehelbeni/lehelbeni.github.io/",
+          editUrl:
+            "https://github.com/lehelbeni/lehelbeni.github.io/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -56,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "lehelbeni.md",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",

@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Creating a development server
 
 ## Available Technologies
@@ -39,3 +42,4 @@ so the client config will look like this
     AUTH0_CLIENT_ID: '',
   }
 ```
+## The 
