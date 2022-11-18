@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9217],{1245:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/lehelbeni.github.io/blog/tags/facebook","allTagsPath":"/lehelbeni.github.io/blog/tags","count":1}')}}]);
