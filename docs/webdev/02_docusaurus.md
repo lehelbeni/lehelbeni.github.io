@@ -27,7 +27,7 @@ sidebar_position: 2
 ## Building and deploying to github pages
 First ajust the settings in the project directory *Settings->Pages-> deploy from branch -> gh-pages*
 
-## Updating the documentation is done by pasting 
+## Updating the documentation is done by the following command
 ```bash
 git add .
 git commit -m "Update"

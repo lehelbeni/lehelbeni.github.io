@@ -6,6 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [require.resolve("docusaurus-lunr-search")],
   title: "lehelbeni.md",
   tagline: "Dinosaurs are cool",
   url: "https://lehelbeni.github.io",
