@@ -38,4 +38,8 @@ There are only three types of mistakes:
 The tree faliure cases in hireing. These are the main cases that are fatal for a acompany. 
 
 
-## 
+## Advantages that help wealth creation
+- Age 
+- Location
+- 
+
