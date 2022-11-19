@@ -41,13 +41,13 @@ const config = {
           editUrl:
             "https://github.com/lehelbeni/lehelbeni.github.io/tree/main/",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/lehelbeni/lehelbeni.github.io/tree/main/",
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     "https://github.com/lehelbeni/lehelbeni.github.io/tree/main/",
+        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
