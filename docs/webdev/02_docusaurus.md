@@ -3,7 +3,14 @@ sidebar_position: 2
 ---
 # Docusaurus 
 ## Creating a docusaurus docuemntation 
-
+## Updating the documentation
+```bash
+git add .
+git commit -m "Update"
+git push origin main
+GIT_USER=lehelbeni yarn deploy
+``` 
+... and then start here of course ...
 ## Publish Docusaurus to GitHub Pages
 1. Create new Git Repository and git push origin main the new git repo
 
@@ -27,13 +34,6 @@ sidebar_position: 2
 ## Building and deploying to github pages
 First ajust the settings in the project directory *Settings->Pages-> deploy from branch -> gh-pages*
 
-## Updating the documentation is done by the following command
-```bash
-git add .
-git commit -m "Update"
-git push origin main
-GIT_USER=lehelbeni yarn deploy
-``` 
  ## Adding Searh to your docusaurus site
 1. Install this package
 ```bash
