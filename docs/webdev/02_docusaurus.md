@@ -1,11 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Docusaurus 
 ## Creating a docusaurus docuemntation 
 
 ## Publish Docusaurus to GitHub Pages
-1. Create new Git Repository and  git push origin main the new git repo
+1. Create new Git Repository and git push origin main the new git repo
 
 2. Edith docusaurus.config.js
 ```js
@@ -25,4 +25,13 @@ sidebar_position: 3
 ```
 
 ## Building and deploying to github pages
- First ajust the settings in the project directory *Settings->Pages-> deploy from branch -> gh-pages* #gh-pages
+First ajust the settings in the project directory *Settings->Pages-> deploy from branch -> gh-pages*
+
+## Updating the documentation is done by pasting 
+```bash
+git add .
+git commit -m "Update"
+git push origin main
+GIT_USER=lehelbeni yarn deploy
+``` 
+ 
