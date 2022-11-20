@@ -1,5 +1,7 @@
 # E69: Elon Musk on Twitter's bot problem, SpaceX's grand plan, Tesla stories, Giga Texas & more
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnxzrX9tNoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Table of Content
 - 0:00 Bestie Guestie Elon Musk joins the besties via Zoom at the All-In Summit!
 - 0:43 Benchmarking Twitter's bot problem, thoughts on slights from the Biden Administration
@@ -11,5 +13,6 @@
 - 1:10:20 American exceptionalism, a new immigration strategy
 
 ---
-## Twitter comments by Elon Musk
-- 
+
+# Legacy 
+The legacy supply chain comes with the the inherent constraint.
