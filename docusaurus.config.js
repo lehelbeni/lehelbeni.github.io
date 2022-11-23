@@ -91,7 +91,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/lehelbeni/lehelbeni.github.io",
+            href: "https://github.com/lehelbeni/",
             label: "GitHub",
             position: "right",
           },
