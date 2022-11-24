@@ -30,3 +30,10 @@ Start with defining a specific costumer problem that is worth solving.
 - Shipable increment
 - Sprint review 
 
+## Double Diamond
+- Problem space
+    - Discover (Divergence)
+    - Define (Convergente)
+- Solution space
+    - Develop (Divergence)
+    - Deliver(Convergente)

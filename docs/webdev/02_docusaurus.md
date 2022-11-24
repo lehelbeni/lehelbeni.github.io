@@ -62,3 +62,27 @@ npm run build
 ```bash
 npx http-server ./build
 ```
+## Docusaurus Mermaid
+```bash
+npm install --save @docusaurus/theme-mermaid
+```
+
+docusaurus.config.js
+```js
+module.exports = {
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+  themeConfig: {
+    mermaid: {
+      theme: {light: 'neutral', dark: 'forest'},
+       options: {
+        maxTextSize: 50,
+      },
+    },
+  },
+};
+```
+
