@@ -4,9 +4,7 @@
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#21af90'}}}%%
 erDiagram
-    HomePage {
-        t asd
-    }
+    HomePage 
     COMMUNICATION{
         type Chat
         type Video
