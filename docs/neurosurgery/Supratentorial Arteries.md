@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 # Supraclinoidal portion of the internal carotid artery (ICA)
 ## Segments of the Internal Carotid Artery

@@ -1,6 +1,8 @@
-
+---
+sidebar_position: 3
+---
 # Telencephalon
-  ![[1.png]]
+  ![Dorsal Cerebral Surface](./1.png)
  1. Fissura longitudinalis cerebri 
  2. Gyrus frontalis superior
  3. Sulcus frontalis superior
@@ -23,8 +25,10 @@
 16. Sulcus parietooccipitalis - Sulcus of Gratiolet
 17. Gyrus occipitalis superior
 18. Sulcus occipitalis transversus
+
  ---
-![[2.png]]
+
+![Lateral Cerebral Surface](./2.png)
 1. Sulcus Centralis - Rolando
 2. Gyrus postcentralis 
 3. Sulcus postcentralis
