@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 # Supraclinoidal portion of the internal carotid artery (ICA)
 ## Segments of the Internal Carotid Artery
 - C1 - Cervical portion
