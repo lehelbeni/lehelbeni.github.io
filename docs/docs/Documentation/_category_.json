@@ -3,6 +3,12 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Concepts from neurological surgery."
+    "description": "."
   }
 }
+
+
+cd "/Users/lehelbeni/Documents/Web Development/Documentation/lehelbeni.github.io"
+git add .
+git commit -m 'update'
+git push origin main

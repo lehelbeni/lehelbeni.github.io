@@ -94,12 +94,7 @@ const config = {
             position: "left",
             label: "WebDev",
           },
-          {
-            type: "doc",
-            docId: "mindcast/intro",
-            position: "left",
-            label: "Mindcast",
-          },
+
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/lehelbeni/",
