@@ -6,9 +6,3 @@
     "description": "."
   }
 }
-
-
-cd "/Users/lehelbeni/Documents/Web Development/Documentation/lehelbeni.github.io"
-git add .
-git commit -m 'update'
-git push origin main
